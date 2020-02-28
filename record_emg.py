@@ -1,8 +1,6 @@
 '''
 
-Aston University 
-
-Copyright (c) 2019 Jhonatan Kobylarz
+Aston University - 2019 Jhonatan Kobylarz
 
 '''
 
